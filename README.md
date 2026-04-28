@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there 👋 I'm Muhammad Tarmizi (Mizi)
 
 💻 Network Engineer | ☁️ Cloud Learner | 🔐 Security Enthusiast  
